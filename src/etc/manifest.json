@@ -4,7 +4,7 @@
 	"description": "Monitoring and live status for Riangle websites",
 	"icons": [
 		{
-			"src": "https://riangle.s3-eu-west-1.amazonaws.com/utilities/192.png",
+			"src": "https://riangle.s3-eu-west-1.amazonaws.com/utilities/status-icon.png",
 			"sizes": "192x192",
 			"type": "image/png"
 		},
